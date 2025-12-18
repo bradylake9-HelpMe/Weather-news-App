@@ -1,0 +1,7 @@
+{
+  "name": "US Weather & News Pulse",
+  "description": "A comprehensive dashboard featuring live weather data for all 50 US states, an interactive national radar, and a real-time news feed for key states.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
